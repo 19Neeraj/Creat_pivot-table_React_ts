@@ -1,0 +1,829 @@
+{
+    "pivotData": 
+    [
+    {
+        "zone": "INN",
+        "region": "J",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 3386,
+        "SUM_weight": 39.9
+    },
+    {
+        "zone": "INW",
+        "region": "I",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 991,
+        "SUM_weight": 9.98
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 7073,
+        "SUM_weight": 19.99
+    },
+    {
+        "zone": "INE",
+        "region": "W",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 2361,
+        "SUM_weight": 120.89
+    },
+    {
+        "zone": "INS",
+        "region": "O",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 3423,
+        "SUM_weight": 247.58
+    },
+    {
+        "zone": "INW",
+        "region": "A",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 6057,
+        "SUM_weight": 129.09
+    },
+    {
+        "zone": "INN",
+        "region": "U",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 5279,
+        "SUM_weight": 92.13
+    },
+    {
+        "zone": "INS",
+        "region": "E",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 24186,
+        "SUM_weight": 33.27
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 4237,
+        "SUM_weight": 28.71
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 1200,
+        "SUM_weight": 14.86
+    },
+    {
+        "zone": "INS",
+        "region": "V",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 863,
+        "SUM_weight": 45.97000000000001
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 1720,
+        "SUM_weight": 18.94
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 20485,
+        "SUM_weight": 1310.4199999999998
+    },
+    {
+        "zone": "INS",
+        "region": "H",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 4506,
+        "SUM_weight": 0.30000000000000004
+    },
+    {
+        "zone": "INS",
+        "region": "V",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1482,
+        "SUM_weight": 2.2
+    },
+    {
+        "zone": "INN",
+        "region": "U",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 8696,
+        "SUM_weight": 331.48
+    },
+    {
+        "zone": "INN",
+        "region": "J",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1490,
+        "SUM_weight": 8.629999999999999
+    },
+    {
+        "zone": "INN",
+        "region": "Q",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 7341,
+        "SUM_weight": 109.67000000000004
+    },
+    {
+        "zone": "INW",
+        "region": "R",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 343,
+        "SUM_weight": 4.84
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 7039,
+        "SUM_weight": 245.62
+    },
+    {
+        "zone": "INN",
+        "region": "Q",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 204,
+        "SUM_weight": 1
+    },
+    {
+        "zone": "INE",
+        "region": "X",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 394,
+        "SUM_weight": 29.9
+    },
+    {
+        "zone": "INE",
+        "region": "X",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 637,
+        "SUM_weight": 2.42
+    },
+    {
+        "zone": "INW",
+        "region": "A",
+        "customer_category": "DP",
+        "Product_Group_ID": "BS",
+        "SUM_revenue": 135,
+        "SUM_weight": 6
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 9278,
+        "SUM_weight": 115.86999999999998
+    },
+    {
+        "zone": "INN",
+        "region": "L",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 1474,
+        "SUM_weight": 99.69
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 5816,
+        "SUM_weight": 195.87
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 4073,
+        "SUM_weight": 0.3
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 2203,
+        "SUM_weight": 7.38
+    },
+    {
+        "zone": "INS",
+        "region": "E",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 875,
+        "SUM_weight": 64.4
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 8267,
+        "SUM_weight": 23.28
+    },
+    {
+        "zone": "INE",
+        "region": "X",
+        "customer_category": "CPDP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 1668,
+        "SUM_weight": 20
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1232,
+        "SUM_weight": 2.2700000000000005
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "CP",
+        "Product_Group_ID": "GS",
+        "SUM_revenue": 15924,
+        "SUM_weight": 1024
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 8192,
+        "SUM_weight": 39.73
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 8739,
+        "SUM_weight": 90.56
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 866,
+        "SUM_weight": 6.21
+    },
+    {
+        "zone": "INW",
+        "region": "R",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 70,
+        "SUM_weight": 0.1
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 181,
+        "SUM_weight": 0.8
+    },
+    {
+        "zone": "INW",
+        "region": "A",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 70,
+        "SUM_weight": 0.14
+    },
+    {
+        "zone": "INS",
+        "region": "O",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 2100,
+        "SUM_weight": 138
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 20005,
+        "SUM_weight": 191.74
+    },
+    {
+        "zone": "INW",
+        "region": "A",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 4804,
+        "SUM_weight": 5
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 5362,
+        "SUM_weight": 181.99
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 2273,
+        "SUM_weight": 2.7
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 5677,
+        "SUM_weight": 159.41
+    },
+    {
+        "zone": "INS",
+        "region": "V",
+        "customer_category": "WI",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 795,
+        "SUM_weight": 0.2
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 12827,
+        "SUM_weight": 638.03
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 135,
+        "SUM_weight": 8.82
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 8581,
+        "SUM_weight": 145.57999999999993
+    },
+    {
+        "zone": "INN",
+        "region": "J",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 5271,
+        "SUM_weight": 225.45
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 97,
+        "SUM_weight": 0.5
+    },
+    {
+        "zone": "INW",
+        "region": "I",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 3026,
+        "SUM_weight": 27.66
+    },
+    {
+        "zone": "INS",
+        "region": "O",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 3950,
+        "SUM_weight": 116.66
+    },
+    {
+        "zone": "INS",
+        "region": "E",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 62,
+        "SUM_weight": 0.11
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1303,
+        "SUM_weight": 4.75
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 71,
+        "SUM_weight": 0.48
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 8945,
+        "SUM_weight": 82.28
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "Retail",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 34482,
+        "SUM_weight": 195.0899999999999
+    },
+    {
+        "zone": "INN",
+        "region": "U",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1609,
+        "SUM_weight": 5.429999999999999
+    },
+    {
+        "zone": "INN",
+        "region": "J",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 2079,
+        "SUM_weight": 0.2
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "DP",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 9564,
+        "SUM_weight": 10.64
+    },
+    {
+        "zone": "INW",
+        "region": "I",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 910,
+        "SUM_weight": 22.88
+    },
+    {
+        "zone": "INN",
+        "region": "U",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 241,
+        "SUM_weight": 2.3
+    },
+    {
+        "zone": "INS",
+        "region": "H",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 490,
+        "SUM_weight": 18.59
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 2189,
+        "SUM_weight": 33.02
+    },
+    {
+        "zone": "INE",
+        "region": "K",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 272,
+        "SUM_weight": 10.3
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 3024,
+        "SUM_weight": 210
+    },
+    {
+        "zone": "INN",
+        "region": "Q",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 738,
+        "SUM_weight": 48.41
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 905,
+        "SUM_weight": 17.009999999999998
+    },
+    {
+        "zone": "INS",
+        "region": "E",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 656,
+        "SUM_weight": 29.25
+    },
+    {
+        "zone": "INS",
+        "region": "V",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 23259,
+        "SUM_weight": 2236.1700000000005
+    },
+    {
+        "zone": "INS",
+        "region": "H",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 3091,
+        "SUM_weight": 10.14
+    },
+    {
+        "zone": "INS",
+        "region": "B",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 3335,
+        "SUM_weight": 260.39
+    },
+    {
+        "zone": "INE",
+        "region": "T",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 623,
+        "SUM_weight": 17.48
+    },
+    {
+        "zone": "INW",
+        "region": "A",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 1327,
+        "SUM_weight": 12.209999999999996
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 1870,
+        "SUM_weight": 29.730000000000004
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 4458,
+        "SUM_weight": 57.26999999999999
+    },
+    {
+        "zone": "INS",
+        "region": "C",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 1285,
+        "SUM_weight": 118.28
+    },
+    {
+        "zone": "INS",
+        "region": "H",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 3008,
+        "SUM_weight": 87.33999999999999
+    },
+    {
+        "zone": "INS",
+        "region": "E",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 142,
+        "SUM_weight": 7
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 158,
+        "SUM_weight": 0.51
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 16477,
+        "SUM_weight": 447.53
+    },
+    {
+        "zone": "INN",
+        "region": "U",
+        "customer_category": "CPDP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 85027,
+        "SUM_weight": 4214.5
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "CPDP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 10250,
+        "SUM_weight": 178.54
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "DP",
+        "Product_Group_ID": "BP",
+        "SUM_revenue": 2598,
+        "SUM_weight": 58.82
+    },
+    {
+        "zone": "INW",
+        "region": "P",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 1577,
+        "SUM_weight": 0.4
+    },
+    {
+        "zone": "INW",
+        "region": "R",
+        "customer_category": "CP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 1044,
+        "SUM_weight": 37.330000000000005
+    },
+    {
+        "zone": "INS",
+        "region": "O",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 7560,
+        "SUM_weight": 36.29000000000001
+    },
+    {
+        "zone": "INE",
+        "region": "W",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 401,
+        "SUM_weight": 7.130000000000001
+    },
+    {
+        "zone": "INN",
+        "region": "L",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 2979,
+        "SUM_weight": 17.64
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "CP",
+        "Product_Group_ID": "",
+        "SUM_revenue": -5614,
+        "SUM_weight": 0
+    },
+    {
+        "zone": "INE",
+        "region": "X",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 47,
+        "SUM_weight": 0.5
+    },
+    {
+        "zone": "INW",
+        "region": "R",
+        "customer_category": "CP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 788,
+        "SUM_weight": 10.12
+    },
+    {
+        "zone": "INN",
+        "region": "L",
+        "customer_category": "FR",
+        "Product_Group_ID": "International",
+        "SUM_revenue": 1385,
+        "SUM_weight": 0.26
+    },
+    {
+        "zone": "INS",
+        "region": "V",
+        "customer_category": "DP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 53,
+        "SUM_weight": 1.2
+    },
+    {
+        "zone": "INE",
+        "region": "W",
+        "customer_category": "CP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 1577,
+        "SUM_weight": 4.23
+    },
+    {
+        "zone": "INW",
+        "region": "M",
+        "customer_category": "CPDP",
+        "Product_Group_ID": "ES",
+        "SUM_revenue": 18535,
+        "SUM_weight": 176.64000000000004
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "DP",
+        "Product_Group_ID": "EP",
+        "SUM_revenue": 5074,
+        "SUM_weight": 43.440000000000005
+    },
+    {
+        "zone": "INN",
+        "region": "N",
+        "customer_category": "CPDP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 15534,
+        "SUM_weight": 615.46
+    },
+    {
+        "zone": "INN",
+        "region": "J",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 325,
+        "SUM_weight": 3
+    },
+    {
+        "zone": "INS",
+        "region": "H",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 363,
+        "SUM_weight": 17.450000000000003
+    },
+    {
+        "zone": "INN",
+        "region": "L",
+        "customer_category": "DP",
+        "Product_Group_ID": "GP",
+        "SUM_revenue": 154,
+        "SUM_weight": 10.3
+    }
+]
+}
