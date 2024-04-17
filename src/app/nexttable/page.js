@@ -7,6 +7,7 @@ export default function Nexttable() {
         { rowLabel: 'Row 1', columnLabel: 'Column 2', value: 20 },
         { rowLabel: 'Row 3', columnLabel: 'Column 1', value: 30 },
         { rowLabel: 'Row 2', columnLabel: 'Column 2', value: 40 },
+        { rowLabel: 'Row 2', columnLabel: 'Column 3', value: 50 },
       ];
   return (
     <div>
