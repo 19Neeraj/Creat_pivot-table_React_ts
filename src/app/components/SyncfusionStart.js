@@ -7,23 +7,13 @@ import {
   Inject,
 } from "@syncfusion/ej2-react-pivotview";
 
-import datasource from "./data.json";
+import datasource from "../components/data.json";
 // import "./globals.css";
 const data = datasource.pivotData;
 
 // console.log(data);
-export default function SyncfusionJs(props) {
-  const { Changeval } = props;
-  const valueArray = [
-    { name: "SUM_revenue", caption: "revenue", type: "PercentageOfGrandTotal" },
-    { name: "SUM_weight", caption: "weight" },
-    { name: "Total", caption: "Total Units  %", type: "CalculatedField" },
-  ];
-  for (let i = 0; i < valueArray.length; i++) {
-    valueArray[0].type = Changeval;
-  }
+export default function SyncfusionStart() {
   
-  console.log(valueArray);
   return (
     <div id="wrapper">
       <PivotViewComponent
@@ -36,7 +26,11 @@ export default function SyncfusionJs(props) {
             { name: "customer_category" },
             { name: "Product_Group_ID" },
           ],
-          values: valueArray, // { name: "Total", caption: "Total Units", type: "CalculatedField" }
+          values: [
+    { name: "SUM_revenue", caption: "revenue", type:"" },
+    { name: "SUM_weight", caption: "weight" },
+    { name: "Total", caption: "Total Units  %", type: "CalculatedField" },
+  ], // { name: "Total", caption: "Total Units", type: "CalculatedField" }
           filters: [{ name: "Quarter" }],
           calculatedFieldSettings: [
             {
