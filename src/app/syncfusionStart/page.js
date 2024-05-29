@@ -10,7 +10,7 @@ registerLicense(key);
 export default function Start() {
   return (
     <main>
-     <div className="flex justify-center"><ButtonSwitch></ButtonSwitch></div>
+     <div className="flex justify-center mt-20"><ButtonSwitch></ButtonSwitch></div>
         <div>
       <SyncfusionStart></SyncfusionStart>
     </div>
