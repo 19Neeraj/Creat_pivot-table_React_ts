@@ -11,7 +11,7 @@ import datasource from "../components/data.json";
 // import "./globals.css";
 const data = datasource.pivotData;
 
-// console.log(data);
+console.log(data);
 export default function SyncfusionStart() {
   
   return (

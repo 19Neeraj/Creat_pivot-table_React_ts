@@ -44,6 +44,7 @@ let a = 2;
 var b = 5;
 const c = 6;
 
+// a=10; b=15;
 function Check() {
   b = 40;
   // c = 10;
@@ -51,6 +52,33 @@ function Check() {
   console.log(a, b);
 }
 
+console.log(a,b,c);
 
 Check();
 console.log(a,b,c);
+
+// 
+// if (Array.isArray(data) && Array.isArray(valueKeys)) {
+//   var formateData = data.map(record => {
+//       const newRecord = { ...record };
+//       valueKeys.forEach(formatSpec => {
+//           if (formatSpec.numberFormat && formatSpec.numberFormat.decimalPlaces !== undefined) {
+//               const decimalPlaces = parseInt(formatSpec.numberFormat.decimalPlaces, 10);
+//               const key = formatSpec.responseKey;
+//               const value = newRecord[key];
+//               if (typeof value === 'number') {
+//                   newRecord[key] = parseFloat(value.toFixed(decimalPlaces));
+//               }
+//           } else {
+//               const decimalPlaces = 2;
+//               const key = formatSpec.responseKey;
+//               const value = newRecord[key];
+//               if (typeof value === 'number') {
+//                   newRecord[key] = parseFloat(value.toFixed(decimalPlaces));
+//               }
+//           }
+//       });
+//       return newRecord;
+//   });
+  // console.log(formateData);
+} 

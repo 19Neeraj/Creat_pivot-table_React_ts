@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@syncfusion/ej2-react-base": "^25.1.35",
+    "@syncfusion/ej2-react-buttons": "^26.1.35",
     "@syncfusion/ej2-react-pivotview": "^25.1.39",
     "next": "14.2.1",
     "react": "^18",

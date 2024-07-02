@@ -3,7 +3,11 @@ import Image from "next/image";
 import SyncfusionJs from "./components/SyncfusionJs";
 import { useState } from "react";
 import ButtonSwitch from "./components/ButtonSwitch";
+import { registerLicense } from "@syncfusion/ej2-base";
 
+const key =
+  "Ngo9BigBOggjHTQxAR8/V1NBaF5cXmZCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdnWXtcdnRQQmFdVUV2W0o=";
+registerLicense(key);
 
 
 export default function Home() {
