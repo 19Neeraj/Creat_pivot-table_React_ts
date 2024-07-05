@@ -37,3 +37,19 @@ code {
 @import "../../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css";
 @import '../../node_modules/@syncfusion/ej2-calendars/styles/material.css';
 @import '../../node_modules/@syncfusion/ej2-react-pivotview/styles/material.css';
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+/* .tableStyle>td.odd {
+  background-color: #ffffff;
+}
+tr:nth-child(even){
+  background-color: #d9cdcd;
+} */
+
+tr:nth-child(even){
+  background-color: #f8f2f2;
+} 
