@@ -5,11 +5,9 @@ import "../globals.css";
 const data = [
   { zone: 'INN', customer_category: 'CP', SUM_revenue: 60634 },
   { zone: 'INW', customer_category: 'CP', SUM_revenue: 50499 },
-  { zone: 'INE', customer_category: 'CP', SUM_revenue: 44912 },
   { zone: 'INS', customer_category: 'CP', SUM_revenue: 88327 },
   { zone: 'INS', customer_category: 'FR', SUM_revenue: 32765 },
   { zone: 'INS', customer_category: 'DP', SUM_revenue: 8094 },
-  { zone: 'INE', customer_category: 'DP', SUM_revenue: 14898 },
   { zone: 'INW', customer_category: 'DP', SUM_revenue: 37823 },
   { zone: 'INE', customer_category: 'CPDP', SUM_revenue: 1668 },
   { zone: 'INW', customer_category: 'FR', SUM_revenue: 6381 },
